@@ -6,3 +6,4 @@ We created the following files: "student-info.txt", "report.md" and "index.html"
 We created a branch named "feature/student-details". <br>
 We committed a change on the "index.html", adding a paragraph to the web page. <br>
 Bundled the repo as 2690124-submission.bundle. <br>
+:) <br>
